@@ -1,5 +1,3 @@
-# Transformer-Decoder---Nano-GPT
-
 # Tiny Shakespeare — Transformer Decoder (PyTorch)
 
 A minimal transformer-decoder implementation in PyTorch trained on the Tiny Shakespeare dataset. This project demonstrates a simple autoregressive character-level language model (transformer decoder blocks, multi-head self-attention, and a small feed-forward network).
